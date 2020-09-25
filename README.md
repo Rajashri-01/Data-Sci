@@ -1,5 +1,5 @@
 # Data-Sci
-###### Basic models of Data Science.
+###### Models of Data Science.
 
 Modules used are:
 ```
